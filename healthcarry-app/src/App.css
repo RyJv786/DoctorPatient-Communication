@@ -1,0 +1,81 @@
+
+
+.Front-header{
+background-color: green;
+padding: 20px;
+font-size: 20px;
+text-align: left;
+}
+
+.Front-header h1{
+    font-family: 'Calibri', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: white;
+}
+
+
+.Front-pagetxt{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 40px;
+    background-color: rgba(0, 102, 255, 0.529);
+}
+
+.Signup-click{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 400px;
+    background-color: rgba(45, 107, 9, 0.394);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer
+    }
+
+.Login-click{
+      margin-left: 900px;
+      position: relative;
+      bottom: 45px;
+      background-color: rgba(45, 107, 9, 0.394);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer
+  }
+    
+.home-chat h1{
+  font-style: italic;
+  font-size: 2.5em;
+  font-weight: bold;
+  color: rgb(43, 128, 0);
+  text-align: center;
+  margin: auto;
+  width: fit-content;
+
+}
+  
+.home-chat p{
+  font-weight: bold;
+  color: rgb(43, 128, 0);
+
+}
+  
+.message{
+  border-radius: 10px 10px 10px 0px;
+}
+.messageSent{
+  border-radius: 10px 10px 0px 10px;
+}
